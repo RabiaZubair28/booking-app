@@ -2,7 +2,7 @@ import React, { useState} from 'react'
 import '../../styles/hotels-styles/searchBar.css';
 import { Link } from 'react-router-dom';
 import { Col, Form, FormGroup } from 'reactstrap';
-import data from '../../data/hotels.json';
+import data from '../../data/hotels-data/hotels.json';
 
     
  function SearchBar() {

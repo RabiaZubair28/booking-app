@@ -1,6 +1,6 @@
 import React from 'react'
 import { useParams } from 'react-router-dom';
-import data from '../../data/hotels.json';
+import data from '../../data/hotels-data/hotels.json';
 import '../../styles/hotels-styles/hotelDetails.css';
 import {Container, Row, Col, Form, FormGroup} from 'reactstrap';
 import { Link } from 'react-router-dom';
