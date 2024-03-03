@@ -1,0 +1,43 @@
+.searchBar{
+    padding: 0.5rem 1rem;
+    border-radius: 50px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    width: max-content;
+}
+.formGroup{
+    padding-top: 20px;
+}
+.formGroup span{
+    font-size: 1.8rem;
+    color: #ee6e6e;
+}
+.formGroup input{
+    border: none;
+    font-size: 0.9rem;
+    color: var(--heading-color);
+    font-weight: 500;
+    padding-bottom: 3px;
+    border-bottom: 1px solid rgba(17, 12, 46, 0.15);
+}
+.formGroup input:focus{
+    outline: none;
+}
+.formGroup h6{
+    margin-bottom: 0;
+}
+.searchIcon i{
+    font-size: 1.6rem;
+    padding: 0.6rem;
+    background: var(--secondary-color);
+    border-radius: 30px;
+    color: #fff;
+    cursor: pointer;
+}
+.city{
+    color: #ffa500;
+    font-size: 25px;
+}
+.hotel{
+    text-shadow: 2px 2px grey;
+    margin-bottom: 20px;
+}

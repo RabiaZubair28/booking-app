@@ -1,0 +1,59 @@
+.tourContent img{
+    border-radius: 0.5rem;
+    margin-bottom: 1.0rem;
+}
+.tourInfo .tourDates h6 span{
+    color: #ffa500;
+    font-weight: 700;
+    font-size: 18px;
+    font-style: italic;
+}
+.tourInfo .tourPrice i{
+    color: #ffa500;
+    font-weight: 700;
+    font-size: 40px;
+    font-style: italic;
+}
+.tourInfo .tourPrice span{
+    font-weight: 600;
+    font-size: 25px;
+    padding-inline: 10px;
+}
+.tourInfo .tourDescription{
+    font-weight: 700;
+    padding-block-end: 10px;
+}
+.form{
+    padding: 2rem 5rem;
+    border-radius: 20px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    width: max-content;
+}
+.pay{
+    background-color: #ffa500;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    height: 40px;
+    width: 100%;
+    border: 1px solid #ffa500;
+    border-radius: 5px;
+    padding-top: 5px;
+    text-decoration: none;
+}
+.pay:hover{
+    background-color: #ffa500;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    height: 40px;
+    width: 100%;
+    border: 1px solid #efcd8f;
+    border-radius: 5px;
+    box-shadow: grey 0px 10px 10px 0px;
+    padding-top: 5px;
+    text-decoration: none;
+}
+.mandatory{
+    font-size: 10px;
+}
