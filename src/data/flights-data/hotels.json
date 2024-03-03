@@ -1,0 +1,224 @@
+
+[
+    {
+        "id": 1,
+        "city": "Sukkur",
+        "hotel":"Hotel Hayatt",
+        "description": "",
+        "image": "images/hayatsuk.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":7
+    },
+    {
+        "id": 2,
+        "city": "Sukkur",
+        "hotel":"Chen-Inn Hotel",
+        "description": "",
+        "image": "images/chensuk.jpeg",
+        "price":900,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-09",
+        "guests":7
+    },
+    {
+        "id": 3,
+        "city": "Sukkur",
+        "hotel":"Palm Valley Hotel",
+        "description": "",
+        "image": "images/palmsuk.jpeg",
+        "price":500,
+        "arrival":"2024-03-15",
+        "departure":"2024-03-28",
+        "guests":9
+    },
+    {
+        "id": 4,
+        "city": "Sukkur",
+        "hotel":"Tourist Lodge Hotel",
+        "description": "gsvgxhggxw",
+        "image": "images/touristsuk.jpeg",
+        "price":100,
+        "arrival":"2024-03-13",
+        "departure":"2024-03-29",
+        "guests":5
+    },
+    {
+        "id": 5,
+        "city": "Sukkur",
+        "hotel":"Pakistan Club-Inn Hotel",
+        "description": "",
+        "image":"images/pakclubinn.jpeg",
+        "price":400,
+        "arrival":"08-03-2024",
+        "departure":"03-04-2024",
+        "guests":6
+    },
+    {
+        "id": 6,
+        "city": "Karachi",
+        "hotel":"Ramada Plaza",
+        "description": "",
+        "image":"images/ramadakhi.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-29",
+        "guests":6
+    },
+    {
+        "id": 7,
+        "city": "Karachi",
+        "hotel":"Avari Towers",
+        "description": "",
+        "image":"images/avarikhi.jpeg",
+        "price":400,
+        "arrival":"2024-03-09",
+        "departure":"2024-03-12",
+        "guests":6
+    },
+    {
+        "id": 8,
+        "city": "Karachi",
+        "hotel":"MovenPick Hotel",
+        "description": "",
+        "image":"images/movekhi.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-18",
+        "guests":6
+    },
+    {
+        "id": 9,
+        "city": "Karachi",
+        "hotel":"Pearl Continental",
+        "description": "",
+        "image":"images/pckhi.jpeg",
+        "price":400,
+        "arrival":"2024-03-10",
+        "departure":"2024-03-20",
+        "guests":6
+    },
+    {
+        "id": 10,
+        "city": "Karachi",
+        "hotel":"Mariott Hotel",
+        "description": "",
+        "image":"images/mariotkhi.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 11,
+        "city": "Hyderabad",
+        "hotel":"Taj Krishna Hotel",
+        "description": "",
+        "image":"images/tajhyd.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    }, 
+    {
+        "id": 12,
+        "city": "Hyderabad",
+        "hotel":"Sheraton Hotel",
+        "description": "",
+        "image":"images/serhyd.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    }, 
+    {
+        "id": 13,
+        "city": "Hyderabad",
+        "hotel":"Trident Hotel",
+        "description": "",
+        "image":"images/tridenthyd.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    }, 
+    {
+        "id": 14,
+        "city": "Hyderabad",
+        "hotel":"Hyatt Hotel",
+        "description": "",
+        "image":"images/hyatthyd.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    }, 
+    {
+        "id": 15,
+        "city": "Hyderabad",
+        "hotel":"ITC Kohenur Hotel",
+        "description": "",
+        "image":"images/itchyd.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 16,
+        "city": "Lahore",
+        "hotel":"Luxus Grand Hotel",
+        "description": "",
+        "image":"images/luxuslhr.jpeg",
+        "price":400,
+        "arrival":"2024-03-01",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 17,
+        "city": "Lahore",
+        "hotel":"Nishat Hotel",
+        "description": "",
+        "image":"images/nishatlhr.jpeg",
+        "price":400,
+        "arrival":"2024-03-13",
+        "departure":"2024-03-29",
+        "guests":6
+    },
+    {
+        "id": 18,
+        "city": "Lahore",
+        "hotel":"Pearl Continental",
+        "description": "",
+        "image":"images/pclhr.jpeg",
+        "price":400,
+        "arrival":"2024-03-17",
+        "departure":"2024-03-28",
+        "guests":6
+    },
+    {
+        "id": 19,
+        "city": "Lahore",
+        "hotel":"Avari Hotel",
+        "description": "",
+        "image":"images/avarilhr.jpeg",
+        "price":400,
+        "arrival":"2024-03-09",
+        "departure":"2024-03-14",
+        "guests":6
+    },
+    {
+        "id": 20,
+        "city": "Lahore",
+        "hotel":"Ramada Hotel",
+        "description": "",
+        "image":"images/ramadalhr.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    }
+   
+]
