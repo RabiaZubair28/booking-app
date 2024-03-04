@@ -8,7 +8,7 @@ const HotelDetails = () => {
     
 const i = useParams().hotelId;
 
-const { id, city,hotel,description,image,price,arrival,departure,guests} = data[i-1];
+const { city,hotel,description,image,price,arrival,departure } = data[i-1];
     return(
 
     <section>
