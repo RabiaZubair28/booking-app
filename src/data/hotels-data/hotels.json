@@ -549,5 +549,115 @@
         "arrival":"2024-03-12",
         "departure":"2024-03-15",
         "guests":6
+    },
+    {
+        "id": 51,
+        "city": "Kashmir",
+        "hotel":"Kash Mahal Resorts",
+        "description": "",
+        "image":"images/mhlksh.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 52,
+        "city": "Kashmir",
+        "hotel":"Hotel Meerz",
+        "description": "",
+        "image":"images/meerzksh.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 53,
+        "city": "Kashmir",
+        "hotel":"The Montreal",
+        "description": "",
+        "image":"images/montksh.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 54,
+        "city": "Kashmir",
+        "hotel":"De Elaaf Resorts",
+        "description": "",
+        "image":"images/deksh.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 55,
+        "city": "Kashmir",
+        "hotel":"Vacay Datcha Resorts",
+        "description": "",
+        "image":"images/vacayksh.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 56,
+        "city": "Sawat",
+        "hotel":"Burj Al Sawat Hotel",
+        "description": "",
+        "image":"images/burjsw.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 57,
+        "city": "Sawat",
+        "hotel":"Astoria Hills Hotel",
+        "description": "",
+        "image":"images/asw.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 58,
+        "city": "Sawat",
+        "hotel":"Eagle Nest Hotel",
+        "description": "",
+        "image":"images/eagsw.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 59,
+        "city": "Sawat",
+        "hotel":"Rock City Hotel",
+        "description": "",
+        "image":"images/rocksw.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 60,
+        "city": "Sawat",
+        "hotel":"Lalazar Hotel",
+        "description": "",
+        "image":"images/lalsw.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
     }
 ]
