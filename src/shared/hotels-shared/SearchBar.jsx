@@ -65,8 +65,7 @@ import data from '../../data/hotels-data/hotels.json';
     <div className="row template_Container d-flex justify-content-center">
           {
             
-            data 
-              .slice(0,20).filter((val) => {
+            data.filter((val) => {
                 var ArrivalInput = arrival;
                 var DestinationInput = destination;
                 var Date_1 = val.arrival;
@@ -113,7 +112,7 @@ import data from '../../data/hotels-data/hotels.json';
                     </div>
                   </div>   
                 )
-              })
+              }).slice(0,20)
           }
         </div>
     </div>

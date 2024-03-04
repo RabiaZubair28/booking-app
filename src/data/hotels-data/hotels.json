@@ -219,6 +219,61 @@
         "arrival":"2024-03-12",
         "departure":"2024-03-15",
         "guests":6
+    },
+    {
+        "id": 21,
+        "city": "Islamabad",
+        "hotel":"Serena Hotel",
+        "description": "",
+        "image":"images/serenaisl.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 22,
+        "city": "Islamabad",
+        "hotel":"Crown Plaza Hotel",
+        "description": "",
+        "image":"images/crownisl.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 23,
+        "city": "Islamabad",
+        "hotel":"Premier Best Western Hotel",
+        "description": "",
+        "image":"images/bestisl.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 24,
+        "city": "Islamabad",
+        "hotel":"Mariott Hotel",
+        "description": "",
+        "image":"images/mariotisl.webp",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 25,
+        "city": "Islamabad",
+        "hotel":"Ramada Hotel By WYNDHAM",
+        "description": "",
+        "image":"images/ramadaisl.webp",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
     }
    
 ]
