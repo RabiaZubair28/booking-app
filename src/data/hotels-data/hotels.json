@@ -274,6 +274,170 @@
         "arrival":"2024-03-12",
         "departure":"2024-03-15",
         "guests":6
+    },
+    {
+        "id": 26,
+        "city": "Rawalpindi",
+        "hotel":"The Walnut Hotel",
+        "description": "",
+        "image":"images/therwl.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 27,
+        "city": "Rawalpindi",
+        "hotel":"Royalton Hotel",
+        "description": "",
+        "image":"images/royalrwl.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 28,
+        "city": "Rawalpindi",
+        "hotel":"Grand Mangolia Hotel",
+        "description": "",
+        "image":"images/grand.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 29,
+        "city": "Rawalpindi",
+        "hotel":"Luxury Guest House",
+        "description": "",
+        "image":"images/luxuryrwl.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 30,
+        "city": "Rawalpindi",
+        "hotel":"Esquire Hotel",
+        "description": "",
+        "image":"images/esquirerwl.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 31,
+        "city": "Quetta",
+        "hotel":"Quetta Serena  Hotel",
+        "description": "",
+        "image":"images/serenaqt.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 32,
+        "city": "Quetta",
+        "hotel":"Gardenia Resort",
+        "description": "",
+        "image":"images/gdqt.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 33,
+        "city": "Quetta",
+        "hotel":"Bloom Star Hotel",
+        "description": "",
+        "image":"images/bloomqt.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 34,
+        "city": "Quetta",
+        "hotel":"Lourdes Hotel",
+        "description": "",
+        "image":"images/lourdesqt.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 35,
+        "city": "Quetta",
+        "hotel":"Vista Guesthouse",
+        "description": "",
+        "image":"images/vista.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 36,
+        "city": "Skardu",
+        "hotel":"Broq Resort",
+        "description": "",
+        "image":"images/broqskd.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 37,
+        "city": "Skardu",
+        "hotel":"Hargisa Hut",
+        "description": "",
+        "image":"images/hutskd.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 38,
+        "city": "Skardu",
+        "hotel":"Hotel Himalya",
+        "description": "",
+        "image":"images/himskd.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 39,
+        "city": "Skardu",
+        "hotel":"Oasis Resort",
+        "description": "",
+        "image":"images/oasisskd.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 40,
+        "city": "Skardu",
+        "hotel":"Mountain Lodge Hotel",
+        "description": "",
+        "image":"images/lodgeskd.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
     }
-   
 ]
