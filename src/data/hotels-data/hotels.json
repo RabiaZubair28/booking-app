@@ -439,5 +439,115 @@
         "arrival":"2024-03-12",
         "departure":"2024-03-15",
         "guests":6
+    },
+    {
+        "id": 41,
+        "city": "Peshawar",
+        "hotel":"Shelton's Rezidor Hotel",
+        "description": "",
+        "image":"images/sheltonpsh.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 42,
+        "city": "Peshawar",
+        "hotel":"Fort Continental Hotel",
+        "description": "",
+        "image":"images/fortpsh.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 43,
+        "city": "Peshawar",
+        "hotel":"Star Qabail Hotel",
+        "description": "",
+        "image":"images/star.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 44,
+        "city": "Peshawar",
+        "hotel":"Emaraat Hotel",
+        "description": "",
+        "image":"images/emaraatpsh.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 45,
+        "city": "Peshawar",
+        "hotel":"Amin Hotel",
+        "description": "",
+        "image":"images/aminpsh.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 46,
+        "city": "Murree",
+        "hotel":"Cecil Hotel",
+        "description": "",
+        "image":"images/cecilmur.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 47,
+        "city": "Murree",
+        "hotel":"Metropole Hotel",
+        "description": "",
+        "image":"images/metromur.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 48,
+        "city": "Murree",
+        "hotel":"Maisonette Firhill Hotel",
+        "description": "",
+        "image":"images/firmur.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 49,
+        "city": "Murree",
+        "hotel":"Grand Taj Hotel",
+        "description": "",
+        "image":"images/tajmur.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
+    },
+    {
+        "id": 50,
+        "city": "Murree",
+        "hotel":"Hotel One",
+        "description": "",
+        "image":"images/onemur.jpeg",
+        "price":400,
+        "arrival":"2024-03-12",
+        "departure":"2024-03-15",
+        "guests":6
     }
 ]
