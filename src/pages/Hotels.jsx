@@ -5,9 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container, Row, Col } from 'reactstrap';
 import heroImg from '../hotels-images/about-2.jpg';
 import heroImg02 from '../hotels-images/hero-img02.jpg';
-import heroVideo from '../hotels-images/hero-video.mp4';
-import worldImg from '../hotels-images/world.png';
-import Subtitle from '../shared/hotels-shared/Subtitle';
+import heroVideo from '../hotels-images/luxury.mp4';
 import SearchBar from '../shared/hotels-shared/SearchBar';
 
 import room1 from '../hotels-images/room-1.jpg';
@@ -33,10 +31,6 @@ const Hotels = () => {
         <Row>
           <Col lg='6'>
             <div className="heroContent">
-              <div className="heroSubtitle d-flex align-items-center">
-                <Subtitle subtitle={'Know before you go'} />
-                <img src={worldImg} alt="" />
-              </div>
               <h1>
                <span className="highlight">Travelling opens the door to creating</span>
               </h1>

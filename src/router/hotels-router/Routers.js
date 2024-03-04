@@ -2,7 +2,7 @@ import React from 'react'
 import {Routes, Route, Navigate} from 'react-router-dom';
 import Home from '../../pages/Home';
 import Hotels from '../../pages/Hotels';
-import HotelDetails from '../../components/hotels-components/HotelDetails';
+import HotelDetails from '../../shared/hotels-shared/HotelDetails';
 
 const Routers = () => {
   return (

@@ -6,28 +6,29 @@ import {Container, Row, Col, Form, FormGroup} from 'reactstrap';
 import { Link } from 'react-router-dom';
 const HotelDetails = () => {
     
-const id = useParams().hotelId;
+const i = useParams().hotelId;
 
+const { id, city,hotel,description,image,price,arrival,departure,guests} = data[i-1];
     return(
-    
+
     <section>
         <Container>
             <Row>
                 <Col lg="8">
                     <div className='tourContent'>
-                        <img src={data[id-1].image} height={380} width={800} alt='' />
+                        <img src={image} height={380} width={800} alt='' />
 
                         <div className='tourInfo'>
-                            <h2>{data[id-1].hotel} ({data[id-1].city})</h2>
+                            <h2>{hotel} ({city})</h2>
                             <div className='tourDescription'>
-                                    {data[id-1].description}
+                                    {description}
                             </div>
                             <div className='tourDates'>
-                                <h6>Available Arrival Dates: <span>{data[id-1].arrival}</span></h6>
-                                <h6>Available Departure Dates: <span>{data[id-1].departure}</span></h6>
+                                <h6>Available Arrival Dates: <span>{arrival}</span></h6>
+                                <h6>Available Departure Dates: <span>{departure}</span></h6>
                             </div>
                             <div className='tourPrice'>
-                            <i class="ri-hand-coin-line"></i><span>  Price: ${data[id-1].price}</span>
+                            <i class="ri-hand-coin-line"></i><span>  Price: {price}</span>
                             </div>
                             
                         </div>
